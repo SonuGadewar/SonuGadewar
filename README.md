@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Gadewar</h1>
-<h3 align="center">Autonomous UAVs, Internet of Things, Machine Learning, Desktop Application, Web Application, Computer Vision, Info-Sec. are my cup of tea.</h3>
+<h4 align="center">Autonomous UAVs, Internet of Things, Machine Learning, Desktop Application, Web Application, Computer Vision, Info-Sec. are my cup of tea.</h4>
 
 ## 
 - 💬 Ask me about **: Autonomous UAV tech, IoT, Web-app, Desktop-app**
