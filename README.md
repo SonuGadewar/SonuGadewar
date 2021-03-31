@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonu Gadewar</h1>
+ <p align="center" >
+        <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="300px"   />
+    </p> 
 <h3 align="center">Autonomous UAVs, Internet of Things, Machine Learning, Desktop Application, Web Application, Computer Vision, Info-Sec. are my cup of tea.</h3>
 
 
@@ -15,9 +18,7 @@
 
 - ⚡ Fun fact **: Almost all my repositories are Private😎**
     </p>
-     <p align="right" >
-        <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
-    </p> 
+    
 </p>
 
 ## Connect with me:
