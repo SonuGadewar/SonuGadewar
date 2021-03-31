@@ -5,9 +5,7 @@
 
 
 ## 
-<p align="right" >
-    <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
-</p> 
+
 
 - 💬 Ask me about **: Autonomous UAV tech, IoT, Web-app, Desktop-app**
 
@@ -16,10 +14,15 @@
 - ⚡ Fun fact **: Almost all my repositories are Private😎**
 
 ## Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/sonugadewar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonugadewar" height="30" width="40" /></a>
-  <a href="https://fb.com/computersavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="computersavy" height="30" width="40" /></a>
-  <a href="https://instagram.com/sonu_gadewar_hackcraft" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sonu_gadewar_hackcraft" height="30" width="40" /></a>
+<p>
+    <p align="left">
+      <a href="https://linkedin.com/in/sonugadewar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonugadewar" height="30" width="40" /></a>
+      <a href="https://fb.com/computersavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="computersavy" height="30" width="40" /></a>
+      <a href="https://instagram.com/sonu_gadewar_hackcraft" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sonu_gadewar_hackcraft" height="30" width="40" /></a>
+    </p>
+    <p align="right" >
+        <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
+    </p> 
 </p>
 
 ## Languages and Tools:
