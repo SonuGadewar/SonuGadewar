@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sonu Gadewar</h1>
 <h3 align="center">Autonomous UAVs, Internet of Things, Machine Learning, Desktop Application, Web Application, Computer Vision, Info-Sec. are my cup of tea.</h3>
 
-- 💬 Ask me about **Autonomous UAV tech, IoT, Web-app, Desktop-app**
+- 💬 Ask me about **: Autonomous UAV tech, IoT, Web-app, Desktop-app**
 
-- 📫 How to reach me **gadewarsonu@gmail.com**
+- 📫 How to reach me **: gadewarsonu@gmail.com**
 
-- ⚡ Fun fact **Almost all my repositories are Private😎**
+- ⚡ Fun fact **: Almost all my repositories are Private😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
