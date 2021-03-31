@@ -6,12 +6,19 @@
 
 ## 
 
+<p>
+    <p align="left" >
 
 - 💬 Ask me about **: Autonomous UAV tech, IoT, Web-app, Desktop-app**
 
 - 📫 How to reach me **: gadewarsonu@gmail.com**
 
 - ⚡ Fun fact **: Almost all my repositories are Private😎**
+    </p>
+     <p align="right" >
+        <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
+    </p> 
+</p>
 
 ## Connect with me:
 <p>
@@ -20,9 +27,7 @@
       <a href="https://fb.com/computersavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="computersavy" height="30" width="40" /></a>
       <a href="https://instagram.com/sonu_gadewar_hackcraft" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sonu_gadewar_hackcraft" height="30" width="40" /></a>
     </p>
-    <p align="right" >
-        <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
-    </p> 
+   
 </p>
 
 ## Languages and Tools:
