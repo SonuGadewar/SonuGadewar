@@ -8,6 +8,7 @@
 <p align="right" >
     <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
 </p> 
+
 - 💬 Ask me about **: Autonomous UAV tech, IoT, Web-app, Desktop-app**
 
 - 📫 How to reach me **: gadewarsonu@gmail.com**
