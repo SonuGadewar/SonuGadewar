@@ -2,7 +2,7 @@
 <h3 align="center">Autonomous UAVs, Internet of Things, Machine Learning, Desktop Application, Web Application, Computer Vision, Info-Sec. are my cup of tea.</h3>
 
 <p>
-    <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center"  height="30" width="40" />
+    <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center"   />
 </p>
 
 
