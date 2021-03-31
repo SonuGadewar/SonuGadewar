@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sonu Gadewar</h1>
 <h3 align="center">Autonomous UAVs, Internet of Things, Machine Learning, Desktop Application, Web Application, Computer Vision, Info-Sec. are my cup of tea.</h3>
 
-<p align="right" >
-    <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
-</p>
+
 
 
 ## 
+<p align="right" >
+    <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="400px"   />
+</p> 
 - 💬 Ask me about **: Autonomous UAV tech, IoT, Web-app, Desktop-app**
 
 - 📫 How to reach me **: gadewarsonu@gmail.com**
