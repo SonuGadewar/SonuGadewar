@@ -36,9 +36,11 @@
 
 ## Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonugadewar&theme=radical&show_icons=true&&count_private=true" alt="sonugadewar" /></p>
-
+<br>
+## Languages
+<p>&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 
 
