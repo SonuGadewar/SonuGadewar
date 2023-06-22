@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu Gadewar</h1>
  <p align="center" >
-        <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="300px"   />
+<!--         <img src="https://github.com/SonuGadewar/SonuGadewar/blob/main/sideNavImg.svg" align="center" width="300px"   /> -->
     </p> 
 <h3 align="center">Autonomous UAVs, Internet of Things, Machine Learning, Desktop Application, Web Application, Computer Vision, Info-Sec. are my cup of tea.</h3>
 
